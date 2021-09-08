@@ -31,12 +31,18 @@
 <p> As bases estão disponíveis nesse <a href="https://drive.google.com/drive/folders/1saKsmnW4FvOw_MRG363pNEYFbFpGw5hf?usp=sharing" target="_blank">link</a> </p>
 
 <h2> Resultados </h2>
-<ol>
+<ul>
   <li> <a href="https://datastudio.google.com/s/nKXGqZEupM4" target="_blank"> Dashboard</a> (em construção) </li>
-</ol>
+</ul>
 
 <footer>
   <div>
-    Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+    <p>
+      <sub>
+        <adress>
+          Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+        </adress>
+      <sub>
+    </p>
   </div>
 </footer>
