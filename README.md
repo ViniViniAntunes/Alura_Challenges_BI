@@ -19,7 +19,7 @@
 <p> A pessoa que gerencia a área de logística da <b>Alura</b> Log, está enfrentando algumas mudanças em sua área por conta do aumento da demanda dos serviços de logística no período da pandemia. Ela quer manter a qualidade de seu serviço, mas para isso precisa acompanhar constantemente as métricas do seu departamento para tomar as melhores decisões. Quando nos contou isso, analisamos que para auxiliar nesse desafio precisaremos fazer um dashboard para logística. Para isso, vamos visualizar algumas métricas muito importantes para a área. </p>
 
 <h2> Datasets </h2>
-O nosso cliente disponibilizou 4 bases de dados sobre logística no formato CSV sendo essas bases:
+<p> O nosso cliente disponibilizou 4 bases de dados sobre logística no formato CSV sendo essas bases: </p>
 <ul>
   <li> <b>Tabela pedidos</b> - contém o registro de todos os pedidos feitos pelos clientes. </li>
   <li> <b>Tabela produtos</b> - contém os produtos cadastrados e seus valores. </li>
@@ -28,7 +28,7 @@ O nosso cliente disponibilizou 4 bases de dados sobre logística no formato CSV 
 </ul>
 
 
-As bases estão disponíveis nesse [link](https://drive.google.com/drive/folders/1saKsmnW4FvOw_MRG363pNEYFbFpGw5hf?usp=sharing)
+<p> As bases estão disponíveis nesse <a href="https://drive.google.com/drive/folders/1saKsmnW4FvOw_MRG363pNEYFbFpGw5hf?usp=sharing" target="_blank">link</a> </p>
 
 <h2> Resultados </h2>
 <ol>
