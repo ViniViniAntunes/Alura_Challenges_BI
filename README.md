@@ -1,8 +1,9 @@
-<h1> Alura Challenges BI </h1>
+<h1><img src="images/analytics.png" width=60px/> Alura Challenges BI </h1>
 <p> Repositório destinado à compartilhar os projetos relacionados ao Alura Challenges BI. </p>
 
 
-<h2> Sobre </h2>
+<h2>  </h2>
+<h2><img src="images/idea.png" width=60px/> Sobre </h2>
 <p> Três empresas nos contrataram para entender suas bases de dados e exibir informações relevantes com o objetivo de auxiliar suas tomadas de decisão. </p>
 
 <p> <b>Conceitos e técnicas de BI</b> serão utilizados para desenvolver um dashboard para uma das empresas. </p>
