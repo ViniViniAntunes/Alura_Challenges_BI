@@ -44,7 +44,7 @@
 <br>
 <h2><img src="images/results.png" width=60px/> Resultados </h2>
   <ul>
-    <li> <a href="https://datastudio.google.com/s/nKXGqZEupM4" target="_blank"> Dashboard</a> (em construção) </li>
+    <li> <a target="_blank" href="https://datastudio.google.com/s/nKXGqZEupM4" target="_blank"> Dashboard</a> (em construção) </li>
   </ul>
 <br>
 <h2><img src="https://raw.githubusercontent.com/ViniViniAntunes/Prevendo_Valor_de_Aluguel_em_SP/master/Previsao_valor_aluguel/images/agradecimentos.svg" width=50px/> Agradecimentos </h2>
@@ -52,10 +52,10 @@
     <p>
       <ul>
         <adress>
-          <li><a href="https://www.linkedin.com/in/david-neves-04b543185/" title="David Neves"> David Neves </a> from <a href="https://www.alura.com.br/" title="Alura">Alura</a></li>
+          <li><a target="_blank" href="https://www.linkedin.com/in/david-neves-04b543185/" title="David Neves"> David Neves </a> from <a target="_blank" href="https://www.alura.com.br/" title="Alura">Alura</a></li>
         </adress>
         <adress>
-          <li>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> and <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></li>
+          <li>Icons made by <a target="_blank" href="https://www.freepik.com" title="Freepik">Freepik</a> and <a target="_blank" href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a target="_blank" href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></li>
         </adress>
       </ul>
     </p>
@@ -64,6 +64,6 @@
 <h2><img src="https://raw.githubusercontent.com/ViniViniAntunes/Prevendo_Valor_de_Aluguel_em_SP/master/Previsao_valor_aluguel/images/autor.svg" width=50px/> Autor </h2>
   <table>
     <tr>
-      <td align="center"><a href="https://viniviniantunes.github.io/" target="_blank"><img src="https://avatars0.githubusercontent.com/u/57882903?s=460&u=caee8cc76060b036952e169feba0449f2d43519e&v=4" width="140px;" alt="foto do autor"/><br><sub><b>Vini Antunes</b></sub></a><br></td>
+      <td align="center"><a target="_blank" href="https://viniviniantunes.github.io/" target="_blank"><img src="https://avatars0.githubusercontent.com/u/57882903?s=460&u=caee8cc76060b036952e169feba0449f2d43519e&v=4" width="140px;" alt="foto do autor"/><br><sub><b>Vini Antunes</b></sub></a><br></td>
     <tr>
   </table>
