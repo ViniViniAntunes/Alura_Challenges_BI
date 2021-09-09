@@ -50,11 +50,14 @@
 <h2><img src="https://raw.githubusercontent.com/ViniViniAntunes/Prevendo_Valor_de_Aluguel_em_SP/master/Previsao_valor_aluguel/images/agradecimentos.svg" width=50px/> Agradecimentos </h2>
   <div>
     <p>
-      <sub>
+      <ul>
         <adress>
-          Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> and <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+          <li><a href="https://www.linkedin.com/in/david-neves-04b543185/" title="David Neves"> David Neves </a> from <a href="https://www.alura.com.br/" title="Alura">Alura</a></li>
         </adress>
-      <sub>
+        <adress>
+          <li>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> and <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></li>
+        </adress>
+      </ul>
     </p>
   </div>
 <br>
