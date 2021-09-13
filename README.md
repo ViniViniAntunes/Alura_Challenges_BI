@@ -52,10 +52,10 @@
     <p>
       <ul>
         <adress>
-          <li><a target="_blank" href="https://www.linkedin.com/in/daniel-p-siqueira-79b2001ba/" title="Daniel Siqueira"> Daniel Siqueira</a>, <a target="_blank" href="https://www.linkedin.com/in/david-neves-04b543185/" title="David Neves"> David Neves </a> and <a target="_blank" href="https://www.linkedin.com/in/mariagcoliva/" title="Maria Gabriela Cuenca"> Maria Gabriela Cuenca </a> from <a target="_blank" href="https://www.alura.com.br/" title="Alura">Alura</a></li>
+          <li><a target="_blank" href="https://www.linkedin.com/in/daniel-p-siqueira-79b2001ba/" title="Daniel Siqueira"> Daniel Siqueira</a>, <a target="_blank" href="https://www.linkedin.com/in/danielle-oliveira-071550134/" title="Daniele Oliveira"> Daniele Oliveira</a>, <a target="_blank" href="https://www.linkedin.com/in/david-neves-04b543185/" title="David Neves"> David Neves </a> and <a target="_blank" href="https://www.linkedin.com/in/mariagcoliva/" title="Maria Gabriela Cuenca"> Maria Gabriela Cuenca </a> from <a target="_blank" href="https://www.alura.com.br/" title="Alura">Alura</a></li>
         </adress>
         <adress>
-          <li>Icons made by <a target="_blank" href="https://www.freepik.com" title="Freepik">Freepik</a> and <a target="_blank" href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a target="_blank" href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></li>
+          <li>Icons made by <a target="_blank" href="https://www.alura.com.br" title="Alura">Alura</a>, <a target="_blank" href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> and <a target="_blank" href="https://www.freepik.com" title="Freepik">Freepik</a> from <a target="_blank" href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></li>
         </adress>
       </ul>
     </p>
