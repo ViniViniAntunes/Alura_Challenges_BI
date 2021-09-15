@@ -51,7 +51,7 @@
 <p> O nosso cliente disponibilizou <b>2 tabelas</b> no <b>formato JSON</b> sobre uma campanha de marketing para fazermos nossas análises e construir o dashboard. </p>
 <ul>
   <li> <b>Tabela_dispositivos</b> - contém informações de acessos por dispositivo. </li>
-  <li> <b>Tabela_idade_e_genero</b> - contém informações de pessoas que acessaram a página e realizaram ou não compras. <li>
+  <li> <b>Tabela_idade_e_genero</b> - contém informações de pessoas que acessaram a página e realizaram ou não compras. </li>
 </ul>
 <p> A tabela está disponível nesse <a href="https://drive.google.com/drive/folders/11JDlvVgOh1nTMeLe0QNkXt6LuVw14phF?usp=sharing" target="_blank">link</a>. </p>
 <br>
