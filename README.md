@@ -25,13 +25,19 @@
 
   <p> A pessoa que gerencia a área de <i><b>logística</b></i> da <b>Alura Log</b>, está enfrentando algumas mudanças em sua área por conta do aumento da demanda dos serviços de logística no período da pandemia. Ela quer <i><b>manter a qualidade</b></i> de seu serviço, mas para isso precisa <i><b>acompanhar constantemente as métricas</b></i> do seu departamento para <i><b>tomar as melhores decisões</b></i>. Quando nos contou isso, analisamos que para auxiliar nesse desafio precisaremos fazer um <i><b>dashboard para logística</b></i>. Para isso, vamos visualizar algumas métricas muito importantes para a área. </p>
 <br>
+
 <h3><img src="images/timetable.png" width=40px/> Semana 2 </h3>
-  <p> <i>Em breve...</i> </p>
+
+<h4 align="center"> <img src="images/alura_shop_preto.png" width=120px/> </h4>
+
+  <p> A <b>Alura Shop</b> investiu em publicidade para se destacar no mercado, e a gerência da empresa tem dúvidas se o retorno dessa propaganda surtiu efeito. </p>
+  <p> A <b>nossa missão</b> é apoiar a gerência em suas tomadas de decisão, e elucidar as dúvidas. Para isso desenvolveremos um <i><b>dashboard estratégico de marketing</b></i> com o objetivo de <i>monitorar uma campanha de publicidade paga durante o mês de <b>julho de 2021</b></i>. Apresentaremos indicadores relevantes para a validação estratégica do negócio. </p>
 <br>
   <h3><img src="images/timetable.png" width=40px/> Semana 3 </h3>
   <p> <i>Em breve...</i> </p>
 <br>
 <h2><img src="images/datasets.png" width=60px/> Datasets </h2>
+  <h3> Semana 1 <img src="images/timetable.png" width=30px/> </h3>
   <p> O nosso cliente disponibilizou 4 bases de dados sobre logística no formato CSV sendo essas bases: </p>
   <ul>
     <li> <b>Tabela pedidos</b> - contém o registro de todos os pedidos feitos pelos clientes. </li>
@@ -39,8 +45,15 @@
     <li> <b>Tabela veículos</b> - contém veículos registrados que fazem o transporte dos produtos </li>
     <li> <b>Tabela estoque</b> - contém o registro de estoque dos produtos por mês </li>
   </ul>
-
-  <p> As bases estão disponíveis nesse <a href="https://drive.google.com/drive/folders/1saKsmnW4FvOw_MRG363pNEYFbFpGw5hf?usp=sharing" target="_blank">link</a> </p>
+  <p> As bases da semana estão disponíveis nesse <a href="https://drive.google.com/drive/folders/1saKsmnW4FvOw_MRG363pNEYFbFpGw5hf?usp=sharing" target="_blank">link</a> </p>
+<br>
+<h3> Semana 2 <img src="images/timetable.png" width=30px/> </h3>
+<p> O nosso cliente disponibilizou <b>2 tabelas</b> no <b>formato JSON</b> sobre uma campanha de marketing para fazermos nossas análises e construir o dashboard. </p>
+<ul>
+  <li> <b>Tabela_dispositivos</b> - contém informações de acessos por dispositivo. </li>
+  <li> <b>Tabela_idade_e_genero</b> - contém informações de pessoas que acessaram a página e realizaram ou não compras. <li>
+</ul>
+<p> A tabela está disponível nesse <a href="https://drive.google.com/drive/folders/11JDlvVgOh1nTMeLe0QNkXt6LuVw14phF?usp=sharing" target="_blank">link</a>. </p>
 <br>
 <h2><img src="images/results.png" width=60px/> Resultados </h2>
   <ul>
